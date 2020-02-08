@@ -1,0 +1,67 @@
+@charset "ISO-8859-1";
+
+body{
+margin-top: 60px;
+}
+
+.jumbotron{
+	background-image: url("file:///C:/Users/Shaikh%20Rizwan/eclipse-workspace/MedicalManagementSystem(MVC)/WebContent/images/background.jpg");
+	 background-repeat: no-repeat;
+	 background-size:700px;
+	max-height: 420px;
+	padding-top: 30px;
+	padding-left: 30px;
+	}
+	
+#messagebox{
+	
+	background-color: #0d0d0d;
+	min-height:320px;
+	max-width:350px;
+	opacity: 0.80;
+	padding: 15px 55px 15px 55px;
+	font-size: 20px;
+	font-weight: 
+	
+	
+}	
+	
+	
+#login-label{
+	font-size:40px;
+	font-family:Arabic typesetting;
+	
+	
+}
+
+#loginpanel{
+	
+	background-color: #0d0d0d;
+	min-height: 350px;
+	max-width:350px;
+	opacity: 0.70;
+	padding: 30px 80px 40px 80px;
+	}
+	
+#credentials{
+	font-size: 35px;
+	font-family:Arabic typesetting;
+	color:white;
+}
+	
+#usericon{
+	background-color:#5cb85c;
+	border-color:#4cae4c;
+	color:white;
+}
+
+#passicon{
+	background-color:#5cb85c;
+	border-color:#4cae4c;
+	color:white;
+}
+
+.btn{
+	width:47%;
+}
+

@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+body{
+	margin-top:60px;
+}
+
+.heading{
+	font-family:Arabic typesetting;
+	font-size: 45px;
+	border-bottom-style: double;
+	}
+	
+.jumbotron{
+	padding-top: 20px;
+	font-family:Arabic typesetting;
+	font-size: 25px;
+}
+
+.btn{
+	font-family:Arabic typesetting;
+	font-size: 20px;
+	max-height: 18px;
+	max-width:90px;
+}
+
+.view_table{
+	font-family:Arabic typesetting;
+	font-size: 25px;
+}
